@@ -4,11 +4,14 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #F3E0E2;
+    background-color: #f7b9bf;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+form{
+    box-shadow: 4px 4px 2.5px 2px rgb(82, 78, 78);
 }
 form{
     text-align: center;
